@@ -1,1 +1,8 @@
+name: Igor Ivanovic
+description: Igor Ivanovic personal blog page
+url: http://www.igorivanovic.info
+
 theme: jekyll-theme-hacker
+
+exclude:
+  - .gitignore
