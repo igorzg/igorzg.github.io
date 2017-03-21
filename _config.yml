@@ -1,5 +1,6 @@
 name: Igor Ivanovic
-description: Igor Ivanovic personal blog page
+title: Igor Ivanovic blog page
+description: Writing about technology, programming, team management, coding
 url: http://www.igorivanovic.info
 
 theme: jekyll-theme-hacker
