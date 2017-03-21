@@ -4,6 +4,8 @@
 made for scaling teams.
 > Fast, un opinionated, minimalist web framework for node.js
 
+
+### Features
 * Dependency Injection
 * Modular design
 * Routing
@@ -11,6 +13,7 @@ made for scaling teams.
 * Testability
 * Components / Services
 
+### Module design
 ![](http://www.igorivanovic.info/media/typeix_modules.png)
 
 [View more](http://www.igorivanovic.info/typeix/)
