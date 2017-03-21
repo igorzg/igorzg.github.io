@@ -6,3 +6,6 @@ theme: jekyll-theme-hacker
 
 exclude:
   - .gitignore
+
+twitter:
+  username: igorzg1987
