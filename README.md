@@ -11,6 +11,8 @@ made for scaling teams.
 * Testability
 * Components / Services
 
+![](http://www.igorivanovic.info/media/typeix_modules.png)
+
 [View more](http://www.igorivanovic.info/typeix/)
 
 * * *
