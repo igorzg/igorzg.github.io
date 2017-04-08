@@ -1,3 +1,12 @@
+## Java EE on Cloud with Payara microprofile
+
+> Microservices are the latest new but not really new architectural style that developers are talking about and in this example you can learn how to start with Dockerising Java EE on AWS cloud and how to setup deploymetn with AWS pipeline & AWS codebuild. 
+> For testing we are using junit and arquillian and gradle as build tool.
+
+[View more](http://www.igorivanovic.info/payara-micro-docker-starter-kit/)
+
+* * *
+
 ## Typeix Node.js Framework
 
 > Node.js framework written in typescript which enables javascript developers to use highly-productive development tool
