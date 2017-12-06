@@ -4,7 +4,7 @@ description: Hey, I’m Igor. I’m a software engineer living in Munich, German
 url: http://www.igorivanovic.info
 repository: https://github.com/igorzg
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 
 exclude:
   - .gitignore
