@@ -3,7 +3,7 @@
 > Microservices are the latest new but not really new architectural style that developers are talking about and in this example you can learn how to start with Dockerising Java EE on AWS cloud and how to setup deploymetn with AWS pipeline & AWS codebuild. 
 > For testing we are using junit and arquillian and gradle as build tool.
 
-[View more](http://www.igorivanovic.info/payara-micro-docker-starter-kit/)
+[View more](https://igorzg.github.io/payara-micro-docker-starter-kit/)
 
 * * *
 
@@ -23,8 +23,8 @@ made for scaling teams.
 * Components / Services
 
 ### Module design
-![](http://www.igorivanovic.info/media/typeix_modules.png)
+![](https://igorzg.github.io/media/typeix_modules.png)
 
-[View more](http://www.igorivanovic.info/typeix/)
+[View more](https://igorzg.github.io/typeix/)
 
 * * *
